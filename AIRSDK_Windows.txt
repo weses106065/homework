@@ -1,7 +1,1 @@
-Invalid link to the AIR SDK
-===========================
 
-The SDK can only be downloaded from the website, after acknowledging the Terms and Conditions under which it is to be used.
-Please do not share direct links to the SDK files.
-
-If you are seeing this message, please visit https://airsdk.harman.com/download and try again.
